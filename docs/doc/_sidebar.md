@@ -1,0 +1,7 @@
+- [Introduction](introduction.md)
+- [Quick Start](getting_started.md)
+- [TaiChi·Magisk](taichi-magisk.md)
+- [Changelog](changelog.md)
+- [Contact](contact.md)
+- [Sponsor](sponsor.md)
+- [FAQ](faq.md)
