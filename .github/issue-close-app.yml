@@ -1,0 +1,35 @@
+# Comment that will be sent if an issue is judged to be closed
+comment: "This issue is closed because it does not meet our issue template/为方便解决问题，请使用 issue 模版提交问题。"
+issueConfigs:
+# There can be several configs for different kind of issues.
+- content:
+# Example 1: bug report
+  - "Expected behavior"
+  - "To Reproduce"
+  - "Describe the bug"
+- content:
+# Example 2: feature request
+  - "Module name"
+  - "Usage"
+  - "Module version"
+  - "APK file"
+- content:
+  - "模块名字"
+  - "模块用途"
+  - "模块版本号"
+  - "模块安装包"
+- content:
+  - "模块名字"
+  - "模块版本号"
+  - "模块更新"
+  - "模块安装包"
+- content:
+  - "什么问题"
+  - "详细情况"
+  - "太极APP版本"
+  - "Magisk 版本"
+  - "开启的 Xposed 模块"
+  - "开启的其他 Magisk 模块"
+  - "手机型号"
+  - "ROM版本"
+  
