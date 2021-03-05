@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ହୋମ୍ ପେଜ୍‍କୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="abc_action_bar_up_description">ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="abc_action_menu_overflow_description">ଅଧିକ ବିକଳ୍ପ</string>
+    <string name="abc_action_mode_done">ହୋଇଗଲା</string>
+    <string name="abc_activity_chooser_view_see_all">ସବୁ ଦେଖନ୍ତୁ</string>
+    <string name="abc_activitychooserview_choose_application">ଗୋଟିଏ ଆପ୍‍ ବାଛନ୍ତୁ</string>
+    <string name="abc_capital_off">ଅଫ୍</string>
+    <string name="abc_capital_on">ଅନ୍</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ଡିଲିଟ୍‍</string>
+    <string name="abc_menu_enter_shortcut_label">ଏଣ୍ଟର୍</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ସ୍ପେସ୍‍</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">ମେନୁ</string>
+    <string name="abc_search_hint">ସର୍ଚ୍ଚ…</string>
+    <string name="abc_searchview_description_clear">କ୍ୱେରୀ ଖାଲି କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_query">ସର୍ଚ୍ଚ କ୍ୱେରୀ</string>
+    <string name="abc_searchview_description_search">ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_submit">କ୍ୱେରୀ ଦାଖଲ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_voice">ଭଏସ୍‌ ସର୍ଚ୍ଚ</string>
+    <string name="abc_shareactionprovider_share_with">ଏହାଙ୍କ ସହ ଶେୟାର୍‌ କରନ୍ତୁ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ସହ ଶେୟାର୍‍ କରନ୍ତୁ</string>
+    <string name="abc_toolbar_collapse_description">ଛୋଟ କରନ୍ତୁ</string>
+    <string name="search_menu_title">ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

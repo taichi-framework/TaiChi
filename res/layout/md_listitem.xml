@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center" android:orientation="horizontal" android:background="?selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/md_listitem_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/md_listitem_textsize" android:gravity="center_vertical" android:layout_gravity="start" android:id="@id/md_title" android:paddingTop="@dimen/md_listitem_vertical_margin" android:paddingBottom="@dimen/md_listitem_vertical_margin" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/md_listitem_margin_left" android:layout_marginRight="@dimen/md_dialog_frame_margin" android:layout_marginStart="@dimen/md_listitem_margin_left" android:layout_marginEnd="@dimen/md_dialog_frame_margin" />
+</LinearLayout>

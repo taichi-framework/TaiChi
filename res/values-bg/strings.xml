@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Придвижване към „Начало“</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Вижте всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">клавиша за интервал</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Търсете…</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
+    <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+    <string name="search_menu_title">Търсене</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

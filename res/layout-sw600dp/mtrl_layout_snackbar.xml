@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:theme="@style/ThemeOverlay.AppCompat.Dark" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.google.android.material.snackbar.Snackbar$SnackbarLayout" style="?snackbarStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <cache-path name="apk" path="apks" />
+        <files-path name="bak" path="apks" />
+    </paths>
+</resources>

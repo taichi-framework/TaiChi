@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">მთავარზე ნავიგაცია</string>
+    <string name="abc_action_bar_up_description">ზემოთ ნავიგაცია</string>
+    <string name="abc_action_menu_overflow_description">მეტი ვარიანტები</string>
+    <string name="abc_action_mode_done">დასრულდა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_activitychooserview_choose_application">აპის არჩევა</string>
+    <string name="abc_capital_off">გამორთულია</string>
+    <string name="abc_capital_on">ჩართულია</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">წაშლა</string>
+    <string name="abc_menu_enter_shortcut_label">შეყვანა</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ძიება...</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_query">ძიების მოთხოვნა</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="abc_shareactionprovider_share_with_application">გაუზიარეთ %s-ს</string>
+    <string name="abc_toolbar_collapse_description">აკეცვა</string>
+    <string name="about_contact_us">დაგვიკავშირდით</string>
+    <string name="about_facebook">მოგვიწონეთ Facebook-ზე</string>
+    <string name="about_github">გვიპოვეთ GitHub-ზე</string>
+    <string name="about_instagram">გამოგვყევით Instagram-ზე</string>
+    <string name="about_play_store">შეგვაფასეთ Play Store-ზე</string>
+    <string name="about_twitter">გამოგვყევით Twitter-ზე</string>
+    <string name="about_website">ეწვიეთ ვებ-გვერდს</string>
+    <string name="about_youtube">გვიყურეთ Youtube-ზე</string>
+    <string name="search_menu_title">ძიება</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progress_bar" android:visibility="gone" android:layout_width="32.0dip" android:layout_height="32.0dip" style="@android:style/Widget.Holo.ProgressBar" />
+    <TextView android:textColor="@color/x_recycler_color_text_gray" android:gravity="center_vertical" android:id="@id/tv_load_more_message" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</merge>

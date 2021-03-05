@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Нүүр хуудас руу шилжих</string>
+    <string name="abc_action_bar_up_description">Дээш шилжих</string>
+    <string name="abc_action_menu_overflow_description">Нэмэлт сонголтууд</string>
+    <string name="abc_action_mode_done">Дууссан</string>
+    <string name="abc_activity_chooser_view_see_all">Бүгдийг харах</string>
+    <string name="abc_activitychooserview_choose_application">Апп сонгох</string>
+    <string name="abc_capital_off">ИДЭВХГҮЙ</string>
+    <string name="abc_capital_on">ИДЭВХТЭЙ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">устгах</string>
+    <string name="abc_menu_enter_shortcut_label">оруулах</string>
+    <string name="abc_menu_function_shortcut_label">Функц+</string>
+    <string name="abc_menu_meta_shortcut_label">Мета+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">зай</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Цэс+</string>
+    <string name="abc_search_hint">Хайх...</string>
+    <string name="abc_searchview_description_clear">Асуулгыг цэвэрлэх</string>
+    <string name="abc_searchview_description_query">Хайх асуулга</string>
+    <string name="abc_searchview_description_search">Хайх</string>
+    <string name="abc_searchview_description_submit">Асуулгыг илгээх</string>
+    <string name="abc_searchview_description_voice">Дуут хайлт</string>
+    <string name="abc_shareactionprovider_share_with">Хуваалцах</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-тай хуваалцах</string>
+    <string name="abc_toolbar_collapse_description">Хумих</string>
+    <string name="search_menu_title">Хайлт</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

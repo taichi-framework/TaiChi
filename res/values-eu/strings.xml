@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Joan orri nagusira</string>
+    <string name="abc_action_bar_up_description">Joan gora</string>
+    <string name="abc_action_menu_overflow_description">Aukera gehiago</string>
+    <string name="abc_action_mode_done">Eginda</string>
+    <string name="abc_activity_chooser_view_see_all">Ikusi guztiak</string>
+    <string name="abc_activitychooserview_choose_application">Aukeratu aplikazio bat</string>
+    <string name="abc_capital_off">DESAKTIBATUTA</string>
+    <string name="abc_capital_on">AKTIBATUTA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">Sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">Zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
+    <string name="abc_search_hint">Bilatu…</string>
+    <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
+    <string name="abc_searchview_description_query">Bilaketa-kontsulta</string>
+    <string name="abc_searchview_description_search">Bilatu</string>
+    <string name="abc_searchview_description_submit">Bidali kontsulta</string>
+    <string name="abc_searchview_description_voice">Ahozko bilaketa</string>
+    <string name="abc_shareactionprovider_share_with">Partekatu hauekin</string>
+    <string name="abc_shareactionprovider_share_with_application">Partekatu %s aplikazioarekin</string>
+    <string name="abc_toolbar_collapse_description">Tolestu</string>
+    <string name="search_menu_title">Bilatu</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

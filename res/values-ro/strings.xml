@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="about_contact_us">Contactați-ne</string>
+    <string name="about_facebook">Dați-ne like pe Facebook</string>
+    <string name="about_github">Faceți fork pe GitHub</string>
+    <string name="about_instagram">Urmăriți-ne pe Instagram</string>
+    <string name="about_play_store">Dați-ne o notă pe Play Store</string>
+    <string name="about_twitter">Urmăriți-ne pe Twitter</string>
+    <string name="about_website">Vizitați site-ul nostru</string>
+    <string name="about_youtube">Urmăriți-ne pe Youtube</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

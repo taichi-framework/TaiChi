@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings_category_basic">
+        <Preference android:title="@string/set_auto_start" android:key="@string/settings_key_auto_start" android:summary="@string/settings_auto_start_summary" />
+        <Preference android:title="@string/keep_taichi_alive" android:key="@string/settings_key_keep_alive" android:summary="@string/settings_keep_alive_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_category_advance" android:key="@string/settings_category_advance">
+        <Preference android:title="@string/about_magisk_guide" android:key="@string/settings_key_for_magisk" android:summary="@string/settings_for_magisk_summary" />
+        <Preference android:title="@string/activate_device_owner" android:key="@string/settings_key_activate_god_dor" android:summary="@string/settings_for_god_door_summary" />
+        <SwitchPreference android:title="@string/settings_magisk_global_mode" android:key="@string/settings_key_global_mode" />
+        <Preference android:title="@string/settings_global_exclude_title" android:key="@string/settings_key_global_exclude" android:summary="@string/settings_global_exclude_summary" />
+        <SwitchPreference android:title="@string/settings_key_nosystem" android:key="@string/settings_key_nosystem" android:defaultValue="false" />
+        <SwitchPreference android:title="@string/settings_key_perfer_module_page" android:key="@string/settings_key_perfer_module_page" android:summary="@string/settings_key_perfer_module_page_summary" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_category_other">
+        <SwitchPreference android:title="@string/settings_key_module_reinstall_prompt" android:key="@string/settings_key_module_reinstall_prompt" android:summary="@string/settings_key_module_reinstall_prompt_summary" android:defaultValue="false" />
+        <SwitchPreference android:title="@string/settings_key_no_fabric" android:key="@string/settings_key_no_fabric" android:defaultValue="false" />
+        <Preference android:title="@string/switch_theme_title" android:key="@string/settings_key_switch_theme" />
+        <ListPreference android:entries="@array/settings_key_switch_icon_entries" android:title="@string/settings_key_switch_icon" android:key="@string/settings_key_switch_icon" android:defaultValue="White" android:dialogTitle="@string/settings_key_switch_icon" android:entryValues="@array/settings_key_switch_icon_entries" />
+        <Preference android:title="@string/clear_cache" android:key="@string/settings_key_clear_cache" />
+    </PreferenceCategory>
+</PreferenceScreen>

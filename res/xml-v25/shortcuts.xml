@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/ic_settings" android:enabled="true" android:shortcutId="settings" android:shortcutShortLabel="@string/title_settings" android:shortcutLongLabel="@string/title_settings">
+        <categories android:name="android.shortcut.conversation" />
+        <intent android:targetPackage="me.weishu.exp" android:action="android.intent.action.VIEW" android:targetClass="me.weishu.exp.ui.settings.SettingsActivity" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_download_b" android:enabled="true" android:shortcutId="module_download" android:shortcutShortLabel="@string/module_download" android:shortcutLongLabel="@string/module_download">
+        <categories android:name="android.shortcut.conversation" />
+        <intent android:targetPackage="me.weishu.exp" android:action="android.intent.action.VIEW" android:targetClass="me.weishu.exp.ui.RecommendPluginActivity" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_module_b" android:enabled="true" android:shortcutId="module_manage" android:shortcutShortLabel="@string/manage_module_activity" android:shortcutLongLabel="@string/manage_module_activity">
+        <categories android:name="android.shortcut.conversation" />
+        <intent android:targetPackage="me.weishu.exp" android:action="android.intent.action.VIEW" android:targetClass="me.weishu.exp.ui.ModuleManageActivity" />
+    </shortcut>
+</shortcuts>

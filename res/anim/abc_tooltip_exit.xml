@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha android:interpolator="@android:interpolator/accelerate_quad" android:duration="@integer/config_tooltipAnimTime" android:fromAlpha="1.0" android:toAlpha="0.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

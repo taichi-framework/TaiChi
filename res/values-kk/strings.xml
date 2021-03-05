@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Негізгі бетте қозғалу</string>
+    <string name="abc_action_bar_up_description">Жоғары қозғалу</string>
+    <string name="abc_action_menu_overflow_description">Басқа опциялар</string>
+    <string name="abc_action_mode_done">Дайын</string>
+    <string name="abc_activity_chooser_view_see_all">Барлығын көру</string>
+    <string name="abc_activitychooserview_choose_application">Қолданбаны таңдау</string>
+    <string name="abc_capital_off">ӨШІРУЛІ</string>
+    <string name="abc_capital_on">ҚОСУЛЫ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">бос орын</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Mәзір+</string>
+    <string name="abc_search_hint">Іздеу…</string>
+    <string name="abc_searchview_description_clear">Сұрақты жою</string>
+    <string name="abc_searchview_description_query">Сұрақты іздеу</string>
+    <string name="abc_searchview_description_search">Іздеу</string>
+    <string name="abc_searchview_description_submit">Сұрақты жіберу</string>
+    <string name="abc_searchview_description_voice">Дауыс арқылы іздеу</string>
+    <string name="abc_shareactionprovider_share_with">Бөлісу</string>
+    <string name="abc_shareactionprovider_share_with_application">%s қолданбасымен бөлісу</string>
+    <string name="abc_toolbar_collapse_description">Тасалау</string>
+    <string name="search_menu_title">Іздеу</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

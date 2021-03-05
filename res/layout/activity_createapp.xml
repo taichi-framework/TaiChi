@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="18.0sp" android:textColor="@color/textPrimary" android:gravity="center" android:id="@id/empty_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <ListView android:id="@id/create_app_list" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:dividerHeight="1.0px" android:layout_weight="1.0" style="@style/Widget.AppCompat.ListView" />
+        <Button android:textSize="18.0sp" android:textColor="@android:color/white" android:layout_gravity="bottom|center" android:id="@id/create_app_btn" android:background="@color/colorPrimary" android:layout_width="fill_parent" android:layout_height="48.0dip" android:foreground="?android:selectableItemBackground" android:text="@string/select_app_button" android:elevation="2.0dip" style="@android:style/Widget.Material.Button" />
+    </LinearLayout>
+    <com.github.clans.fab.FloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/create_app_from_external" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="40.0dip" android:layout_marginBottom="100.0dip" android:src="@drawable/ic_add" android:contentDescription="@string/create_app_from_file" app:fabSize="normal" app:fab_colorNormal="@color/colorPrimary" app:fab_colorPressed="@color/colorPrimaryDark" app:fab_colorRipple="@color/colorPrimaryOpacity" app:fab_label="@string/create_app_from_file" app:fab_size="normal" />
+</FrameLayout>

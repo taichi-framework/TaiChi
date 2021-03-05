@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Движи се кон дома</string>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_menu_overflow_description">Повеќе опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Види ги сите</string>
+    <string name="abc_activitychooserview_choose_application">Избери апликација</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">копче Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">копче Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">копче enter</string>
+    <string name="abc_menu_function_shortcut_label">копче Function+</string>
+    <string name="abc_menu_meta_shortcut_label">копче Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">копче Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">копче Sym+</string>
+    <string name="abc_prepend_shortcut_label">Мени+</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_query">Пребарај барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Поднеси барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_shareactionprovider_share_with">Сподели со</string>
+    <string name="abc_shareactionprovider_share_with_application">Сподели со %s</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="search_menu_title">Пребарај</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेज पर जाएं</string>
+    <string name="abc_action_bar_up_description">ऊपर जाएं</string>
+    <string name="abc_action_menu_overflow_description">ज़्यादा विकल्प</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई एप्‍लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजा जा रहा है…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ़ करें</string>
+    <string name="abc_searchview_description_query">सर्च क्वेरी</string>
+    <string name="abc_searchview_description_search">सर्च करें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">आवाज़ सर्च</string>
+    <string name="abc_shareactionprovider_share_with">इसके साथ शेयर करें</string>
+    <string name="abc_shareactionprovider_share_with_application">%s के साथ शेयर करें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="about_contact_us">संपर्क करें</string>
+    <string name="about_facebook">Facebook पर लाइक करे</string>
+    <string name="about_github">GitHub पर फोर्क करें</string>
+    <string name="about_instagram">Instagram पर फॉलो करें</string>
+    <string name="about_play_store">Play Store पर रेटिंग दें</string>
+    <string name="about_twitter">Twitter पर फॉलो करे</string>
+    <string name="about_website">वेबसाइट देखें</string>
+    <string name="about_youtube">YouTube पर हमें देखें</string>
+    <string name="search_menu_title">सर्च</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

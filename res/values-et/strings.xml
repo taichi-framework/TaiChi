@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeerimine avaekraanile</string>
+    <string name="abc_action_bar_up_description">Navigeerimine üles</string>
+    <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+    <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+    <string name="abc_capital_off">VÄLJAS</string>
+    <string name="abc_capital_on">SEES</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">kustutamisklahv</string>
+    <string name="abc_menu_enter_shortcut_label">sisestusklahv</string>
+    <string name="abc_menu_function_shortcut_label">Funktsiooniklahv +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Tõstuklahv +</string>
+    <string name="abc_menu_space_shortcut_label">tühik</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menüü +</string>
+    <string name="abc_search_hint">Otsige …</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_query">Otsingupäring</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_shareactionprovider_share_with">Jagamine:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jagamine rakendusega %s</string>
+    <string name="abc_toolbar_collapse_description">Ahendamine</string>
+    <string name="search_menu_title">Otsing</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

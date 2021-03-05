@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="versionchecklib_cancel">Cancel</string>
+    <string name="versionchecklib_check_new_version">New Update</string>
+    <string name="versionchecklib_confirm">Commit</string>
+    <string name="versionchecklib_download_apkname">%s.apk</string>
+    <string name="versionchecklib_download_fail">download failed，click to retry</string>
+    <string name="versionchecklib_download_fail_retry">Download failed and retry？</string>
+    <string name="versionchecklib_download_finish">download successful,click to install</string>
+    <string name="versionchecklib_download_progress">download progress:%d%%/100%%</string>
+    <string name="versionchecklib_downloading">downloading...</string>
+    <string name="versionchecklib_progress">%d/100</string>
+    <string name="versionchecklib_retry">Retry</string>
+    <string name="versionchecklib_version_service_runing">application update service is running</string>
+    <string name="versionchecklib_write_permission_deny">Download apk needs write permission。</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeer tuis</string>
+    <string name="abc_action_bar_up_description">Navigeer op</string>
+    <string name="abc_action_menu_overflow_description">Nog opsies</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Sien alles</string>
+    <string name="abc_activitychooserview_choose_application">"Kies 'n program"</string>
+    <string name="abc_capital_off">AF</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksie+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasiebalk</string>
+    <string name="abc_menu_sym_shortcut_label">Simbool+</string>
+    <string name="abc_prepend_shortcut_label">Kieslys+</string>
+    <string name="abc_search_hint">Soek …</string>
+    <string name="abc_searchview_description_clear">Vee navraag uit</string>
+    <string name="abc_searchview_description_query">Soeknavraag</string>
+    <string name="abc_searchview_description_search">Soek</string>
+    <string name="abc_searchview_description_submit">Dien navraag in</string>
+    <string name="abc_searchview_description_voice">Stemsoektog</string>
+    <string name="abc_shareactionprovider_share_with">Deel met</string>
+    <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
+    <string name="abc_toolbar_collapse_description">Vou in</string>
+    <string name="search_menu_title">Soek</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_search" android:id="@id/menu_search" android:title="@android:string/search_go" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="collapseActionView|ifRoom" />
+    <group android:checkableBehavior="all">
+        <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/menu_not_show_system" android:title="@string/menu__not_show_system" android:titleCondensed="Options" android:checkable="true" />
+    </group>
+</menu>

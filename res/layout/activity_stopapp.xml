@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/coordinatorLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/contentFrame" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    <androidx.core.widget.NestedScrollView android:id="@id/bottom_sheet" android:layout_width="fill_parent" android:layout_height="wrap_content" app:behavior_hideable="true" app:behavior_peekHeight="0.0dip" app:layout_behavior="@string/bottom_sheet_behavior">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <View android:background="@drawable/shadow" android:layout_width="fill_parent" android:layout_height="4.0dip" />
+            <LinearLayout android:orientation="vertical" android:background="@android:color/white" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_enable_app" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_enable_app" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/enable_app" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_add_shortcut" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_shortcut" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_shortcut" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_remove_list_enable" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_remove_enable" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/remove_list_enable" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_remove_list" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_remove" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:id="@id/ll_remove_list_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/remove_list" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_custom_app" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_custom_app" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/custom_app" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_cancel_select" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="48.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip">
+                    <ImageView android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@drawable/ic_cancel" android:scaleType="centerInside" android:tint="@color/menuIconColor" android:layout_marginEnd="32.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel_select" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <com.sscience.stopapp.widget.MoveFloatingActionButton android:id="@id/fab_disable" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/activity_horizontal_margin" app:fabSize="normal" app:layout_anchor="@id/bottom_sheet" app:layout_anchorGravity="center|right|top" app:layout_behavior="com.sscience.stopapp.widget.ScrollAwareFABBehavior" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

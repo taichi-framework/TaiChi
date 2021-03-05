@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/action_launch" android:orderInCategory="100" android:title="@string/menu_action_launch" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_stop" android:orderInCategory="100" android:title="@string/menu_action_stop" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_upgrade_app" android:orderInCategory="100" android:title="@string/menu_action_upgrade" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_upgrade_engine" android:orderInCategory="100" android:title="@string/menu_action_upgrade_engine" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_optimize" android:orderInCategory="100" android:title="@string/menu_action_optimize" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_deoptimize" android:orderInCategory="100" android:title="@string/menu_action_deoptimize" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_delete" android:orderInCategory="100" android:title="@string/menu_action_delete" app:showAsAction="ifRoom" />
+    <item android:id="@id/action_uninstall" android:orderInCategory="100" android:title="@string/menu_action_uninstall" app:showAsAction="ifRoom" />
+</menu>

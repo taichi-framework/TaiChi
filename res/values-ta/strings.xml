@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">முகப்பிற்கு வழிசெலுத்து</string>
+    <string name="abc_action_bar_up_description">மேலே செல்</string>
+    <string name="abc_action_menu_overflow_description">மேலும் விருப்பங்கள்</string>
+    <string name="abc_action_mode_done">முடிந்தது</string>
+    <string name="abc_activity_chooser_view_see_all">எல்லாம் காட்டு</string>
+    <string name="abc_activitychooserview_choose_application">பயன்பாட்டைத் தேர்வுசெய்க</string>
+    <string name="abc_capital_off">ஆஃப்</string>
+    <string name="abc_capital_on">ஆன்</string>
+    <string name="abc_menu_alt_shortcut_label">ஆல்ட் மற்றும்</string>
+    <string name="abc_menu_ctrl_shortcut_label">கண்ட்ரோல் மற்றும்</string>
+    <string name="abc_menu_delete_shortcut_label">டெலிட்</string>
+    <string name="abc_menu_enter_shortcut_label">எண்டர்</string>
+    <string name="abc_menu_function_shortcut_label">ஃபங்ஷன் மற்றும்</string>
+    <string name="abc_menu_meta_shortcut_label">மெட்டா மற்றும்</string>
+    <string name="abc_menu_shift_shortcut_label">ஷிஃப்ட் மற்றும்</string>
+    <string name="abc_menu_space_shortcut_label">ஸ்பேஸ்</string>
+    <string name="abc_menu_sym_shortcut_label">சிம்பல் மற்றும்</string>
+    <string name="abc_prepend_shortcut_label">மெனு மற்றும்</string>
+    <string name="abc_search_hint">தேடு...</string>
+    <string name="abc_searchview_description_clear">வினவலை அழி</string>
+    <string name="abc_searchview_description_query">தேடல் வினவல்</string>
+    <string name="abc_searchview_description_search">தேடு</string>
+    <string name="abc_searchview_description_submit">வினவலைச் சமர்ப்பி</string>
+    <string name="abc_searchview_description_voice">குரல் தேடல்</string>
+    <string name="abc_shareactionprovider_share_with">இதனுடன் பகிர்</string>
+    <string name="abc_shareactionprovider_share_with_application">%s மூலம் பகிர்</string>
+    <string name="abc_toolbar_collapse_description">சுருக்கு</string>
+    <string name="search_menu_title">தேடு</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_search" android:id="@id/menu_search" android:title="@android:string/search_go" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="collapseActionView|ifRoom" />
+    <item android:icon="@drawable/ic_sort" android:id="@id/module_download_sort" android:orderInCategory="100" android:title="@string/module_download_sort" app:showAsAction="always" />
+</menu>

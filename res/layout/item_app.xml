@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/ll_item" android:background="?android:selectableItemBackground" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_app_icon" android:layout_width="40.0dip" android:layout_height="40.0dip" android:scaleType="centerInside" android:layout_marginEnd="16.0dip" />
+    <TextView android:textSize="16.0sp" android:textColor="@color/textPrimary" android:ellipsize="end" android:id="@id/tv_app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_toStartOf="@id/cb_select_apps" android:layout_toEndOf="@id/iv_app_icon" />
+    <TextView android:textSize="12.0sp" android:textColor="@color/textSecondary" android:ellipsize="end" android:id="@id/tv_app_package_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_alignBottom="@id/iv_app_icon" android:layout_toStartOf="@id/cb_select_apps" android:layout_toEndOf="@id/iv_app_icon" />
+    <com.sscience.stopapp.widget.ColorCheckBox android:id="@id/cb_select_apps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="16.0dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>

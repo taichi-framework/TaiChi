@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/card_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" android:foreground="?android:selectableItemBackground" android:minHeight="?android:listPreferredItemHeight" card_view:cardBackgroundColor="#ffffffff" card_view:cardElevation="1.0dip" card_view:cardMaxElevation="1.0dip" card_view:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight">
+        <ImageView android:id="@id/app_icon" android:layout_width="48.0dip" android:layout_height="48.0dip" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:textIsSelectable="false" />
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="12.0sp" android:textColor="@android:color/tertiary_text_dark" android:ellipsize="middle" android:id="@id/app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="150.0dip" android:singleLine="true" android:textIsSelectable="false" android:layout_marginStart="4.0dip" />
+            </LinearLayout>
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/status_warning" android:layout_gravity="center_vertical" android:id="@id/app_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/app_more" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/main_list_more_desc" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_more" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होमवर नेव्‍हिगेट करा</string>
+    <string name="abc_action_bar_up_description">वर नेव्‍हिगेट करा</string>
+    <string name="abc_action_menu_overflow_description">अधिक पर्याय</string>
+    <string name="abc_action_mode_done">पूर्ण झाले</string>
+    <string name="abc_activity_chooser_view_see_all">सर्व पहा</string>
+    <string name="abc_activitychooserview_choose_application">एक अ‍ॅप निवडा</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">हटवा</string>
+    <string name="abc_menu_enter_shortcut_label">एंटर करा</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacebar</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">मेनू+</string>
+    <string name="abc_search_hint">शोधा…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी स्‍पष्‍ट करा</string>
+    <string name="abc_searchview_description_query">शोध क्वेरी</string>
+    <string name="abc_searchview_description_search">शोध</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करा</string>
+    <string name="abc_searchview_description_voice">व्हॉइस शोध</string>
+    <string name="abc_shareactionprovider_share_with">यांच्यासह शेअर करा</string>
+    <string name="abc_shareactionprovider_share_with_application">%s सह शेअर करा</string>
+    <string name="abc_toolbar_collapse_description">संक्षिप्त करा</string>
+    <string name="search_menu_title">शोधा</string>
+    <string name="status_bar_notification_info_overflow">९९९+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Supr</string>
+    <string name="abc_menu_enter_shortcut_label">Retorn</string>
+    <string name="abc_menu_function_shortcut_label">Funció+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">Espai</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú+</string>
+    <string name="abc_search_hint">Cerca...</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="about_contact_us">Contacte</string>
+    <string name="about_facebook">Segueix-nos a Facebook</string>
+    <string name="about_github">Fes una còpia a GitHub</string>
+    <string name="about_instagram">Segueix-nos a Instagram</string>
+    <string name="about_play_store">"Puntua'ns a Play Store"</string>
+    <string name="about_twitter">Segueix-nos a Twitter</string>
+    <string name="about_website">Visita la nostra pàgina web</string>
+    <string name="about_youtube">Mira els nostres vídeos a Youtube</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:duration="150" android:startOffset="150" android:propertyName="elevation" />
+    <objectAnimator android:duration="300" android:startOffset="0" android:propertyName="translationXLinear" />
+    <objectAnimator android:duration="255" android:startOffset="0" android:propertyName="translationXCurveUpwards" />
+    <objectAnimator android:duration="255" android:startOffset="45" android:propertyName="translationXCurveDownwards" />
+    <objectAnimator android:duration="300" android:startOffset="0" android:propertyName="translationYLinear" />
+    <objectAnimator android:duration="255" android:startOffset="45" android:propertyName="translationYCurveUpwards" />
+    <objectAnimator android:duration="255" android:startOffset="0" android:propertyName="translationYCurveDownwards" />
+    <objectAnimator android:duration="150" android:startOffset="150" android:propertyName="iconFade" />
+    <objectAnimator android:duration="180" android:startOffset="0" android:propertyName="expansion" />
+    <objectAnimator android:duration="150" android:startOffset="60" android:propertyName="color" />
+    <objectAnimator android:duration="75" android:startOffset="0" android:propertyName="contentFade" />
+</set>

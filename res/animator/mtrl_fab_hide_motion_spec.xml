@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@interpolator/mtrl_linear" android:duration="15" android:startOffset="150" android:propertyName="opacity" />
+    <objectAnimator android:interpolator="@interpolator/mtrl_fast_out_linear_in" android:duration="135" android:startOffset="0" android:propertyName="scale" />
+    <objectAnimator android:interpolator="@interpolator/mtrl_fast_out_linear_in" android:duration="180" android:startOffset="0" android:propertyName="iconScale" />
+</set>

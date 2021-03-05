@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.lxj.xpopup.widget.BlankView android:id="@id/placeholderView" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.lxj.xpopup.widget.PhotoViewContainer android:orientation="vertical" android:id="@id/photoViewContainer" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.lxj.xpopup.widget.HackyViewPager android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </com.lxj.xpopup.widget.PhotoViewContainer>
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="bottom" android:id="@id/tv_pager_indicator" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginBottom="20.0dip" />
+    <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_gravity="bottom|center|right" android:id="@id/tv_save" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="25.0dip" android:layout_marginBottom="20.0dip" android:text="保存" />
+</FrameLayout>

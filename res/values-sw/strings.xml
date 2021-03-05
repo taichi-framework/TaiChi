@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_capital_off">IMEZIMWA</string>
+    <string name="abc_capital_on">IMEWASHWA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">futa</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">nafasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Tafuta…</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki ukitumia %s</string>
+    <string name="abc_toolbar_collapse_description">Kunja</string>
+    <string name="search_menu_title">Tafuta</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

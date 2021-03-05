@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_capital_off">ВИМК.</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробіл</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="abc_shareactionprovider_share_with_application">Поділитися через додаток %s</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="about_contact_us">"Зв'язатися з нами"</string>
+    <string name="about_facebook">Уподобати сторінку на Facebook</string>
+    <string name="about_github">Відгалуження на GitHub</string>
+    <string name="about_instagram">Слідкуйте за нами в Instagram</string>
+    <string name="about_play_store">Оцініть нас на Play Store</string>
+    <string name="about_twitter">Підпишіться на нас у Twitter</string>
+    <string name="about_website">Відвідайте наш веб-сайт</string>
+    <string name="about_youtube">Дивіться нас на Youtube</string>
+    <string name="notices_close">Закрити</string>
+    <string name="notices_title">Ліцензії відкритого коду</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

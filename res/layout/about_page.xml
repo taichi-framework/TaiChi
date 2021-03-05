@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/about_About.wrapper"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/about_About.wrapper">
+        <LinearLayout style="@style/about_sub_wrapper">
+            <ImageView android:id="@id/image" style="@style/about_image" />
+            <TextView android:id="@id/description" style="@style/about_description" />
+        </LinearLayout>
+        <View style="@style/about_separator" />
+        <LinearLayout android:id="@id/about_providers" android:padding="0.0dip" style="@style/about_sub_wrapper" />
+    </LinearLayout>
+</ScrollView>

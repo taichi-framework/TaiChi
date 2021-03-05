@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">হোম এ নেভিগেট করুন</string>
+    <string name="abc_action_bar_up_description">উপরের দিকে নেভিগেট করুন</string>
+    <string name="abc_action_menu_overflow_description">আরও বিকল্প</string>
+    <string name="abc_action_mode_done">সম্পন্ন হয়েছে</string>
+    <string name="abc_activity_chooser_view_see_all">সবগুলো দেখুন</string>
+    <string name="abc_activitychooserview_choose_application">একটি অ্যাপ্লিকেশান বেছে নিন</string>
+    <string name="abc_capital_off">বন্ধ</string>
+    <string name="abc_capital_on">চালু</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">মুছুন</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">স্পেস</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">মেনু+</string>
+    <string name="abc_search_hint">অনুসন্ধান...</string>
+    <string name="abc_searchview_description_clear">ক্যোয়ারী সাফ করুন</string>
+    <string name="abc_searchview_description_query">ক্যোয়ারী খুঁজুন</string>
+    <string name="abc_searchview_description_search">খুঁজুন</string>
+    <string name="abc_searchview_description_submit">ক্যোয়ারী জমা দিন</string>
+    <string name="abc_searchview_description_voice">ভয়েস অনুসন্ধান</string>
+    <string name="abc_shareactionprovider_share_with">এর সাথে শেয়ার করুন</string>
+    <string name="abc_shareactionprovider_share_with_application">%s এর সাথে শেয়ার করুন</string>
+    <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
+    <string name="search_menu_title">খুঁজুন</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

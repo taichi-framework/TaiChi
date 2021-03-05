@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">গৃহ পৃষ্ঠালৈ যাওক</string>
+    <string name="abc_action_bar_up_description">ওপৰলৈ যাওক</string>
+    <string name="abc_action_menu_overflow_description">অধিক বিকল্প</string>
+    <string name="abc_action_mode_done">"সম্পন্ন কৰা হ'ল"</string>
+    <string name="abc_activity_chooser_view_see_all">সকলো চাওক</string>
+    <string name="abc_activitychooserview_choose_application">এটা এপ্ বাছনি কৰক</string>
+    <string name="abc_capital_off">অফ কৰক</string>
+    <string name="abc_capital_on">অন কৰক</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL+</string>
+    <string name="abc_menu_delete_shortcut_label">মচক</string>
+    <string name="abc_menu_enter_shortcut_label">এণ্টাৰ</string>
+    <string name="abc_menu_function_shortcut_label">ফাংশ্বন+</string>
+    <string name="abc_menu_meta_shortcut_label">মেটা+</string>
+    <string name="abc_menu_shift_shortcut_label">শ্বিফ্ট+</string>
+    <string name="abc_menu_space_shortcut_label">স্পেচ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">মেনু+</string>
+    <string name="abc_search_hint">অনুসন্ধান কৰক…</string>
+    <string name="abc_searchview_description_clear">প্ৰশ্ন মচক</string>
+    <string name="abc_searchview_description_query">সন্ধান কৰিব খোজা প্ৰশ্ন</string>
+    <string name="abc_searchview_description_search">সন্ধান কৰক</string>
+    <string name="abc_searchview_description_submit">প্ৰশ্ন দাখিল কৰক</string>
+    <string name="abc_searchview_description_voice">কণ্ঠধ্বনিৰ যোগেৰে সন্ধান কৰক</string>
+    <string name="abc_shareactionprovider_share_with">ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="abc_shareactionprovider_share_with_application">%sৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="abc_toolbar_collapse_description">সংকুচিত কৰক</string>
+    <string name="search_menu_title">অনুসন্ধান কৰক</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

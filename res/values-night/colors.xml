@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDivider">#ff444444</color>
+    <color name="colorListText">#ffaaaaaa</color>
+    <color name="colorPrimary">#ff191919</color>
+    <color name="colorPrimaryDark">#ffe5e5e5</color>
+    <color name="colorPrimaryOpacity">#aa2f2f2f</color>
+    <color name="status_normal">#ff232323</color>
+    <color name="status_text">#ff9f9f9f</color>
+    <color name="about_background_color">#ff303030</color>
+    <color name="about_description_text_color">#ffc1c1c1</color>
+    <color name="about_item_text_color">#ffffffff</color>
+    <color name="about_separator_color">#ff494949</color>
+    <color name="about_text_color">#ffc1c1c1</color>
+</resources>

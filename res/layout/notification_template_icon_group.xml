@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/icon_group" android:layout_width="@dimen/notification_large_icon_width" android:layout_height="@dimen/notification_large_icon_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/notification_big_circle_margin" android:layout_marginBottom="@dimen/notification_big_circle_margin" android:scaleType="centerInside" android:layout_marginStart="@dimen/notification_big_circle_margin" android:layout_marginEnd="@dimen/notification_big_circle_margin" />
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/right_icon" android:visibility="gone" android:layout_width="@dimen/notification_right_icon_size" android:layout_height="@dimen/notification_right_icon_size" android:layout_marginBottom="8.0dip" android:scaleType="centerInside" android:layout_marginEnd="8.0dip" />
+</FrameLayout>

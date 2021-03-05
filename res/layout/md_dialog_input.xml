@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.afollestad.materialdialogs.internal.MDRootLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" app:md_reduce_padding_no_title_no_buttons="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/md_stub_titleframe" />
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/md_dialog_frame_margin" android:paddingTop="@dimen/md_content_padding_top" android:paddingRight="@dimen/md_dialog_frame_margin" android:paddingBottom="@dimen/md_content_padding_bottom" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/md_content_textsize" android:layout_gravity="center_horizontal" android:id="@id/md_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="@dimen/md_content_padding_bottom" android:fontFamily="sans-serif" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <EditText android:textSize="@dimen/md_content_textsize" android:id="@android:id/input" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="-2.0dip" android:layout_marginRight="-2.0dip" android:layout_marginBottom="1.0dip" />
+            <TextView android:textSize="12.0sp" android:gravity="end" android:id="@id/md_minMax" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="48.0dip" android:layout_below="@android:id/input" android:layout_alignRight="@android:id/input" android:fontFamily="sans-serif" android:textAlignment="viewEnd" android:paddingEnd="4.0dip" android:layout_alignEnd="@android:id/input" />
+        </RelativeLayout>
+    </LinearLayout>
+    <include layout="@layout/md_stub_actionbuttons" />
+</com.afollestad.materialdialogs.internal.MDRootLayout>

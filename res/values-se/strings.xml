@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_contact_us">Kontakta oss</string>
+    <string name="about_facebook">Gilla oss på Facebook</string>
+    <string name="about_github">Fork:a oss på GitHub</string>
+    <string name="about_instagram">Följ oss på Instagram</string>
+    <string name="about_play_store">Betygsätt oss på Play Store</string>
+    <string name="about_twitter">Följ oss på Twitter</string>
+    <string name="about_website">Besök vår webbplats</string>
+    <string name="about_youtube">Se oss på Youtube</string>
+</resources>

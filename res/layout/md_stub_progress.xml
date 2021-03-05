@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/md_content_textsize" android:layout_gravity="center_horizontal" android:id="@id/md_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="20.0dip" android:fontFamily="sans-serif" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ProgressBar android:id="@android:id/progress" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Widget.MaterialProgressBar.ProgressBar.Horizontal" />
+        <TextView android:textSize="@dimen/md_content_textsize" android:textStyle="bold" android:gravity="start" android:id="@id/md_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="36.0dip" android:layout_below="@android:id/progress" android:layout_alignLeft="@android:id/progress" android:textAlignment="viewStart" android:layout_alignStart="@android:id/progress" />
+        <TextView android:textSize="@dimen/md_content_textsize" android:gravity="end" android:id="@id/md_minMax" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="48.0dip" android:layout_below="@android:id/progress" android:layout_alignRight="@android:id/progress" android:textAlignment="viewEnd" android:layout_alignEnd="@android:id/progress" />
+    </RelativeLayout>
+</merge>

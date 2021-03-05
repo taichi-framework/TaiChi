@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:background="?selectableItemBackground" android:paddingLeft="@dimen/md_dialog_frame_margin" android:paddingRight="@dimen/md_dialog_frame_margin" android:focusable="true" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/md_listitem_height" android:paddingStart="@dimen/md_dialog_frame_margin" android:paddingEnd="@dimen/md_dialog_frame_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatRadioButton android:gravity="center_vertical" android:id="@id/md_control" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    <TextView android:textSize="@dimen/md_listitem_textsize" android:gravity="center_vertical" android:id="@id/md_title" android:paddingLeft="@dimen/md_listitem_control_margin" android:paddingTop="@dimen/md_listitem_vertical_margin_choice" android:paddingBottom="@dimen/md_listitem_vertical_margin_choice" android:layout_width="wrap_content" android:layout_height="fill_parent" android:minHeight="@dimen/md_listitem_height" android:paddingStart="@dimen/md_listitem_control_margin" />
+</LinearLayout>

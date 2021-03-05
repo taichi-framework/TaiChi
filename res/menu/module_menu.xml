@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_search" android:id="@id/menu_search" android:title="@android:string/search_go" app:actionViewClass="androidx.appcompat.widget.SearchView" app:showAsAction="collapseActionView|ifRoom" />
+    <item android:icon="@drawable/ic_help" android:id="@id/module_manage_menu_config_version" android:orderInCategory="100" android:title="@string/module_manage_menu_config_version" app:showAsAction="collapseActionView" />
+    <item android:icon="@drawable/ic_help" android:id="@id/module_manage_menu_module_engine" android:orderInCategory="100" android:title="@string/module_manage_what_is_module_engine" app:showAsAction="collapseActionView" />
+    <item android:icon="@drawable/ic_help" android:id="@id/module_manage_menu_submit_module" android:orderInCategory="100" android:title="@string/module_manage_menu_submit_module" app:showAsAction="collapseActionView" />
+    <item android:icon="@drawable/ic_about" android:id="@id/menu_setting" android:orderInCategory="100" android:title="@string/module_manage_menu_check_update" app:showAsAction="collapseActionView" />
+    <item android:icon="@drawable/ic_about" android:id="@id/menu_import_scope_settings" android:orderInCategory="100" android:title="@string/menu_import_scope_settings" app:showAsAction="collapseActionView" />
+    <item android:icon="@drawable/ic_about" android:id="@id/menu_export_scope_settings" android:orderInCategory="100" android:title="@string/menu_export_scope_settings" app:showAsAction="collapseActionView" />
+    <group android:checkableBehavior="all">
+        <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/menu_show_all_module" android:title="@string/module_manage_menu_show_all" android:titleCondensed="Options" android:checkable="true" />
+        <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/menu_show_only_enabled" android:title="@string/module_manage_menu_show_only_enabled" android:titleCondensed="Options" android:checkable="true" />
+        <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/menu_hide_update_info" android:title="@string/module_manage_menu_hide_update_info" android:titleCondensed="Options" android:checkable="true" />
+    </group>
+</menu>

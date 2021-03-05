@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_contact_us">Hubungi kami</string>
+    <string name="about_facebook">Like kami di Facebook</string>
+    <string name="about_github">Fork proyek ini di GitHub</string>
+    <string name="about_instagram">Ikuti kami di Instagram</string>
+    <string name="about_play_store">Beri kami nilai di Play Store</string>
+    <string name="about_twitter">Ikuti kami di Twitter</string>
+    <string name="about_website">Kunjungi website kami</string>
+    <string name="about_youtube">Tonton video kami di Youtube</string>
+</resources>

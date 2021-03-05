@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/item_app_icon" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_centerVertical="true" android:layout_marginStart="10.0dip" android:layout_alignParentStart="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toEndOf="@id/item_app_icon">
+        <TextView android:gravity="start|center" android:id="@id/item_app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:layout_marginStart="10.0dip" />
+        <TextView android:textSize="12.0sp" android:gravity="start|center" android:id="@id/item_app_package" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="10.0dip" />
+    </LinearLayout>
+    <CheckBox android:id="@id/item_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+</RelativeLayout>

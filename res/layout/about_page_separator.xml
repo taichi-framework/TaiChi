@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View android:height="@dimen/about_separator_height" style="@style/about_separator"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

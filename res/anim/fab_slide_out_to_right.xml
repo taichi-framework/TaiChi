@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@android:interpolator/accelerate_quint"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:duration="150" android:fromAlpha="1.0" android:toAlpha="0.0" />
+    <translate android:duration="200" android:fromXDelta="0.0" android:toXDelta="29.999996%p" />
+</set>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Boshiga o‘tish</string>
+    <string name="abc_action_bar_up_description">Yuqoriga o‘tish</string>
+    <string name="abc_action_menu_overflow_description">Boshqa parametrlar</string>
+    <string name="abc_action_mode_done">Tayyor</string>
+    <string name="abc_activity_chooser_view_see_all">Hammasi</string>
+    <string name="abc_activitychooserview_choose_application">Dastur tanlang</string>
+    <string name="abc_capital_off">O‘CHIQ</string>
+    <string name="abc_capital_on">YONIQ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Probel</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menyu+</string>
+    <string name="abc_search_hint">Qidirish…</string>
+    <string name="abc_searchview_description_clear">So‘rovni tozalash</string>
+    <string name="abc_searchview_description_query">So‘rovni izlash</string>
+    <string name="abc_searchview_description_search">Qidirish</string>
+    <string name="abc_searchview_description_submit">So‘rov yaratish</string>
+    <string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+    <string name="abc_shareactionprovider_share_with">Ruxsat berish</string>
+    <string name="abc_shareactionprovider_share_with_application">%s orqali ulashish</string>
+    <string name="abc_toolbar_collapse_description">Yig‘ish</string>
+    <string name="about_contact_us">"Biz bilan bog'laning"</string>
+    <string name="about_facebook">Facebookda like bosing</string>
+    <string name="about_github">Githubda bizni kuzatib boring</string>
+    <string name="about_instagram">Instagramda bizni kuzatib boring</string>
+    <string name="about_play_store">Play Storeda bizga baho bering</string>
+    <string name="about_twitter">"Twitterda bizga obuna bo'ling"</string>
+    <string name="about_website">Veb-sahifamizga tashrif buyuring</string>
+    <string name="about_youtube">Youtubeda bizni tomosha qiling</string>
+    <string name="search_menu_title">Qidirish</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:exitFadeDuration="@android:integer/config_mediumAnimTime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/notification_bg_low_pressed" />
+    <item android:state_pressed="false" android:drawable="@drawable/notification_bg_low_normal" />
+</selector>

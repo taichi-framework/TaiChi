@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yanzhenjie.recyclerview.SwipeMenuLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:contentViewId="@id/swipe_content" app:leftViewId="@id/swipe_left" app:rightViewId="@id/swipe_right"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.yanzhenjie.recyclerview.SwipeMenuView android:id="@id/swipe_left" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/swipe_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.yanzhenjie.recyclerview.SwipeMenuView android:id="@id/swipe_right" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+</com.yanzhenjie.recyclerview.SwipeMenuLayout>

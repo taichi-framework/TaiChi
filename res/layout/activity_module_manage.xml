@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListView android:id="@id/module_list" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:dividerHeight="1.0px" style="@style/Widget.AppCompat.ListView" />
+    <com.github.clans.fab.FloatingActionButton android:layout_gravity="end|bottom|center" android:id="@id/add_module_from_external" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="60.0dip" android:layout_marginBottom="60.0dip" android:src="@drawable/ic_add" app:fab_colorNormal="@color/colorPrimary" app:fab_colorPressed="@color/colorPrimaryDark" app:fab_colorRipple="@color/colorPrimaryOpacity" app:fab_label="@string/create_app_activity" app:fab_size="normal" />
+</FrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/header_border" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginTop="4.0dip" android:layout_marginRight="4.0dip" app:cardBackgroundColor="@android:color/white" app:cardUseCompatPadding="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:orientation="vertical" android:id="@id/status_container" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="88.0dip" android:foregroundGravity="center">
+            <ImageView android:layout_gravity="center" android:id="@id/status_icon" android:layout_width="64.0dip" android:layout_height="64.0dip" />
+        </FrameLayout>
+        <TextView android:textStyle="bold" android:textColor="@android:color/holo_green_light" android:gravity="center" android:layout_gravity="center" android:id="@id/status_text" android:padding="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

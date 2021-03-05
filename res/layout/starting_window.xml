@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/colorPrimary_taichi" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginBottom="32.0dip" android:src="@drawable/ic_expand_taichi" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_capital_off">ИСКЉУЧИ</string>
+    <string name="abc_capital_on">УКЉУЧИ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">тастер за размак</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Претражите...</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дељење са апликацијом %s</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="about_contact_us">Kontaktirajte nas</string>
+    <string name="about_facebook">Lajkujte nas na Facebook-u</string>
+    <string name="about_github">Forkajte nas na GitHub-u</string>
+    <string name="about_instagram">Pratite nas na Instagram-u</string>
+    <string name="about_play_store">Ocenite nas na Google Play prodavnici</string>
+    <string name="about_twitter">Pratite nas na Twitter-u</string>
+    <string name="about_website">Posetite naš web sajt</string>
+    <string name="about_youtube">Gledajte nas na Youtube-u</string>
+    <string name="search_menu_title">Претражи</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
